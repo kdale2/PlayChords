@@ -1,2 +1,2 @@
-# assignment1
+# Assignment1
 assignment for data structures course

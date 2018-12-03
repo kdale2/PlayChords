@@ -1,2 +1,2 @@
 # PlaySimpleChords
-A program written in Java. Read in frequencies from a .text file and call playChord() method on each one.
+A program written in Java. Read in frequencies from a .txt file and call playChord() method on each one.
